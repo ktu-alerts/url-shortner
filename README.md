@@ -1,6 +1,7 @@
 # Url Shortener
 
 Use this button for one-click
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ktu-alerts/url-shortner)
 
 ## Set up environment
